@@ -7,7 +7,7 @@ html, body {
 
 body {
   color: #212121;
-  background: url("../images/whitey.jpg") repeat scroll 0 0 #fff;
+  background: url("../../img/whitey.jpg") repeat scroll 0 0 #fff;
   background-size: 220px 220px; }
 
 h1, h2, h3, h4, h5, h6 {
@@ -2375,7 +2375,7 @@ input[type="radio"] {
   margin-bottom: 20px; }
 
 #login-full-wrapper {
-  background: url(../images/login-img.jpg) no-repeat center center;
+  background: url(../../img/login-img.jpg) no-repeat center center;
   background-size: cover;
   width: 100%;
   height: 100%;
@@ -2498,7 +2498,7 @@ input[type="radio"] {
     background-clip: padding-box;
     /* stops bg color from leaking outside the border: */ }
   .pricing-package .pricing-star {
-    background: url(../../images/pricing-star.png) no-repeat;
+    background: url(../../img/pricing-star.png) no-repeat;
     position: absolute;
     width: 39px;
     height: 40px;
@@ -3734,7 +3734,7 @@ input[type="radio"] {
 .weather-box-large .main-box-body {
   padding: 0; }
 .weather-box-large .current {
-  background: url(../../images/samples/new-york-sunset.jpg) no-repeat;
+  background: url(../../img/samples/new-york-sunset.jpg) no-repeat;
   background-size: cover;
   border-radius: 3px;
   background-clip: padding-box;
@@ -6090,12 +6090,12 @@ div.DTED_Lightbox_Wrapper {
 }
 
 td.details-control {
-  background: url('../images/details_open.png') no-repeat center center;
+  background: url(../../img/details_open.png) no-repeat center center;
   cursor: pointer;
   width: 47px;
 }
 tr.shown td.details-control {
-  background: url('../images/details_close.png') no-repeat center center;
+  background: url(../../img/details_close.png) no-repeat center center;
 }
 
 td.select-checkbox {
